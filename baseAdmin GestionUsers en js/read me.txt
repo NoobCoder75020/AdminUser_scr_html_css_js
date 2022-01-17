@@ -1,0 +1,17 @@
+Mon premier vrai programme pour créer un espace d'administration à destination d'une gestion des utilisateurs.
+Développé avec Html5 et Css3 + Javascript
+
+Temps de réalisation 9jours
+
+J'ai rencontré pas mal de soucis de synthaxe et de bugs en tout genre.
+Plusieurs tutos m'ont aidé dans la réalisation de cette tache ne maitrisant pas toutes les fonctions.
+Les idées étaient là, mais les connaissances un peu moins.
+La base ne suffit pas toujours.
+
+La volonté m'a sauvé mais aussi, ma compréhension globale des fonctions et des résultats attendus.
+De bons tutos sur les fonctions suivis avec rigueur m'ont permis d'élargir mes connaissances en Java.
+Cela m'ouvre encore de nouvelles possibilités d'exploitations et des idées de créations.
+
+Encore un fois, je ressors grandi de cette expérience avec une appétence toujours plus grandissante pour ce métier.
+
+Reste à améliorer ==> L'esthétique générale
